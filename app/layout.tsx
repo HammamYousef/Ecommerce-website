@@ -8,8 +8,8 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "CarePulse",
-  description: "Your health, our priority.",
+  title: "Ecommerce",
+  description: "Shop the latest trends in fashion, electronics, and more.",
 };
 
 export default function RootLayout({
